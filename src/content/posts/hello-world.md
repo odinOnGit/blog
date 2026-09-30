@@ -1,7 +1,7 @@
 ---
-title: hello, world (and how to write here)
+title: hello, world
 date: 2026-09-30
-summary: A sample post showing images, GIFs, tables, code and file attachments. Delete it when you're ready.
+summary: just a structure of how each blog will look like
 cover: /images/cover.svg
 tags: meta, guide
 attachments: sample.pdf, notes.txt
